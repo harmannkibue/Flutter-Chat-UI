@@ -32,7 +32,7 @@ final User greg = User(
 );
 final User james = User(
   id: 2,
-  name: 'James',
+  name: 'Njoroge',
   imageUrl: 'assets/images/james.jpg',
 );
 final User john = User(
@@ -42,12 +42,12 @@ final User john = User(
 );
 final User olivia = User(
   id: 4,
-  name: 'Olivia',
+  name: 'Joy',
   imageUrl: 'assets/images/olivia.jpg',
 );
 final User sam = User(
   id: 5,
-  name: 'Sam',
+  name: 'Harman',
   imageUrl: 'assets/images/sam.jpg',
 );
 final User sophia = User(
@@ -57,7 +57,7 @@ final User sophia = User(
 );
 final User steven = User(
   id: 7,
-  name: 'Steven',
+  name: 'Sigeh',
   imageUrl: 'assets/images/steven.jpg',
 );
 
